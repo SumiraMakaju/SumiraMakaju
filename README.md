@@ -43,6 +43,22 @@ I am currently studying computer engineering 🏫📚
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36"/>
   </a>
+   <a href="https://www.figma.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36"/>
+  </a>
+  <a href="https://www.canva.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="36"/>
+  </a>
+  <a href="https://www.blender.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="36"/>
+  </a>
+  <a href="https://www.adobe.com/products/illustrator.html">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="36"/>
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36"/>
+  </a>
+
 </p>
 
 
