@@ -1,4 +1,4 @@
-** 👋 Hi, I’m @SumiraMakaju**
+👋 **Hi, I’m @SumiraMakaju**
  
 💻 Front-End & Creative Developer 
 
